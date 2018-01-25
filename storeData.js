@@ -1,0 +1,47 @@
+const STORE = [
+	{
+		question: 'This country is the largest in South America and is home to over 205 million people.',
+		image: 'http://brazilflag.facts.co/BrazilFlagPicture.jpg',
+	 answer1: 'Bolivia' ,
+	 answer2: 'Colombia' ,
+	 answer3: 'Portugal' ,
+	 answer4: 'Brazil' ,
+	 correctAns: 'Brazil',
+	},
+	{
+		question: 'This country is situated in-between Bulgaria and Albania.',
+	 image: 'https://cdn.pixabay.com/photo/2017/08/29/19/44/international-2694633_1280.jpg',
+	 answer1: 'Ukraine' ,
+	 answer2: 'Macedonia' ,
+	 answer3: 'Turkey' ,
+	 answer4: 'Romaina' ,
+	 correctAns: 'Macedonia',
+	},
+	{
+	question: 'This country is situated in Southeast Asia and is known for one of its forms of martial arts that is used in the UFC.',
+	 image: 'https://cdn.pixabay.com/photo/2017/08/23/10/31/phetchabun-2672255_1280.jpg',
+	 answer1: 'Thailand',
+	 answer2: 'China' ,
+	 answer3: 'Laos' ,
+	 answer4: 'Indonesia' ,
+	 correctAns: 'Thailand',
+	},
+	{
+		question: 'This country’s capital is Istanbul.',
+		image: 'http://turkeyflag.facts.co/TurkeyFlag2.jpg',
+	 answer1: 'Greece',
+	 answer2: 'Turkey',
+	 answer3: 'Iran',
+	 answer4: 'Belarus',
+	 correctAns: 'Turkey',
+	},
+	{
+		question: 'Tasty paella and the running of the bulls can be found here.',
+		image: 'https://cdn.pixabay.com/photo/2014/06/29/15/25/spain-379535__340.jpg',
+	 answer1: 'Italy',
+	 answer2: 'Swizerland',
+	 answer3: 'Portugal',
+	 answer4: 'Spain',
+	 correctAns: 'Spain',
+	}
+	];
