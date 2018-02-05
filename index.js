@@ -1,7 +1,3 @@
-//TODO 
-//if nothing slected then throw message to pick question.
-//hint text displayed too wide
-
 
 let questionCount = 0;
 let countCorrect = 0;
